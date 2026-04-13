@@ -71,5 +71,3 @@ You can find the detailed explanation of the project in the `rapor.pdf` file.
 ## 👩‍💻 Author
 
 Pelin Gülmez
-
-```
